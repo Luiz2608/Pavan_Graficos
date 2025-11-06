@@ -148,7 +148,7 @@ const DashboardVendas = () => {
       </div>
 
       <footer style={estilos.rodape}>
-        <p>Atualizado em: {new Date().toLocaleDateString('pt-BR')} | Desenvolvido para disciplina de Front-end</p>
+        <p>Atualizado em: {new Date().toLocaleDateString('pt-BR')} | Pavan é o cara</p>
       </footer>
 
     </div>
